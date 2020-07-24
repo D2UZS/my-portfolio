@@ -1169,7 +1169,7 @@ body.lock {
     background-color: rgba(255, 255, 255, 0);
     position: static;
     padding: 0px;
-    height: 90px;
+    min-height: 70px;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
